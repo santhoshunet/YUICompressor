@@ -1,0 +1,1 @@
+$(function(){alert("test");function a(){a()}});

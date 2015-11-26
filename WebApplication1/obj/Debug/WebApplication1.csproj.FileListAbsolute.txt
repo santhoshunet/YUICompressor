@@ -1,0 +1,8 @@
+C:\Users\Santhosh\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Santhosh\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Santhosh\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Santhosh\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Santhosh\Desktop\WebApplication1\WebApplication1\bin\EcmaScript.NET.dll
+C:\Users\Santhosh\Desktop\WebApplication1\WebApplication1\bin\Iesi.Collections.dll
+C:\Users\Santhosh\Desktop\WebApplication1\WebApplication1\bin\Yahoo.Yui.Compressor.Build.MsBuild.dll
+C:\Users\Santhosh\Desktop\WebApplication1\WebApplication1\bin\Yahoo.Yui.Compressor.dll

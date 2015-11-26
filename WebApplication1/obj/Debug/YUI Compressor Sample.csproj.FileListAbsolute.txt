@@ -1,0 +1,9 @@
+C:\Users\Santhosh\Desktop\YUICompressor Sample\WebApplication1\bin\WebApplication1.dll
+C:\Users\Santhosh\Desktop\YUICompressor Sample\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Santhosh\Desktop\YUICompressor Sample\WebApplication1\bin\EcmaScript.NET.dll
+C:\Users\Santhosh\Desktop\YUICompressor Sample\WebApplication1\bin\Iesi.Collections.dll
+C:\Users\Santhosh\Desktop\YUICompressor Sample\WebApplication1\bin\Yahoo.Yui.Compressor.Build.MsBuild.dll
+C:\Users\Santhosh\Desktop\YUICompressor Sample\WebApplication1\bin\Yahoo.Yui.Compressor.dll
+C:\Users\Santhosh\Desktop\YUICompressor Sample\WebApplication1\obj\Debug\YUI Compressor Sample.csprojResolveAssemblyReference.cache
+C:\Users\Santhosh\Desktop\YUICompressor Sample\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Santhosh\Desktop\YUICompressor Sample\WebApplication1\obj\Debug\WebApplication1.pdb
